@@ -4,7 +4,7 @@ let showMinute = document.querySelector(".minute");
 let showSecond = document.querySelector(".second");
 
 let counter = setInterval(() => {
-  let setTime = new Date("oct 30 2024  11:47:00 PM").getTime();
+  let setTime = new Date("oct 30 2025  11:47:00 PM").getTime();
 
   let currentTime = new Date().getTime();
 
